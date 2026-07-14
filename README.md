@@ -1,4 +1,4 @@
-# happy-bites-hamper
+# happy-bites-hampers
 
 # 🧺 Happy Bites Hampers
 
